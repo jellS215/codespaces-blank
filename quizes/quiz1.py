@@ -1,23 +1,29 @@
-# 1. In your on words, describe what a variable is.
+# 1. In your on words, describe what a variable is. 
 
 # 2. Name three (3) operators we've learned about in class and describe 
 # a situation where you would use each one. 
+Arithmetic operator - Can be used in math related code problem
 
 # 3. Describe the difference between camal case and pascal case.
-
+In camel case the first word is lower case and the rest are capitalized, in pascal case, all words are capitalized
 # 4. Which operator is being used in the example below
 numberOfApples = 10
 numberOfOranges = 12
 
-numberOfApples < numberOfOranges
+numberOfApples < numberOfOranges Comparison Operator
 
 # 5. You have been given a $100.00 dollar gift card from a family member. Another 
 # family member adds 50.00 dollars to your gift card and a friend gives you $35.50. 
 # Your task is to create variables for each gift amount and a final variable that
 # represents the total amount of money on your gift card. 
-
+GiftCard = 150
+Money = 35.50
+totalAmountOfMoney = 180.50
 # 6. Create a variable that uses the input function and then print that variable. Your variable 
 # should ask a user to enter their name.  
+
+input("What is your name")
+print("Nahjell")
 
 # 7. You have been asked to create a program for a community center that wants to plan a cookout. 
 # The community center wants you to build a form program and capture several key data points. 
@@ -34,3 +40,4 @@ numberOfApples < numberOfOranges
 # 9. In your own words, describe what a program is?
 
 # 10. Describe the difference between a float and an integer. 
+a float has to have a decimal number, intigers have to be whole numbers
