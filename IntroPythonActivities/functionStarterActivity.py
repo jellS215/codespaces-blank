@@ -3,8 +3,8 @@
 
 # 2. What is are function parameters and arguments and describe
 # the difference between the 2. 
-"function parameter is a place holder - goes in function definition"
-"function argument is the actual data - goes in function call"
+# "function parameter is a place holder - goes in function definition"
+# "function argument is the actual data - goes in function call"
 
 # 3. write a function that will print out a welcome message
 # that includes a users name. You will need to use parameters and arguments
@@ -27,5 +27,5 @@ def calculate(randNumber, randomNumber2, randomNumber3):
 # be real, user data- not hard coded data.  
 
 def userMsg(nextClass):
-    className = input('what is your next class')
+    Classname = input('what is your next class')
     print("you have" + nextClass + "after this")
