@@ -38,7 +38,7 @@ put_food_in_the_refridgerator(True)
 
 def cereal_inventory(cereal):
     current_cereal_inventory= 10
-    if: cereal >= current_cereal_inventory:
+    if cereal >= current_cereal_inventory:
         print("inventroy is full")
     else:
         print("need to order more cereal")
