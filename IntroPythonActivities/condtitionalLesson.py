@@ -2,7 +2,7 @@
 
 sun_is_out = False
 
-if sun_is_out = True:
+if sun_is_out is True:
     print("do not turn on street lamps")
 else:
     print("turn on street lamps")
