@@ -20,7 +20,6 @@ else:
 
 user_password = 'password'
 
-
 def login_password(user_password):
     user_password = input('please enter password')
     if user_password == 'password':

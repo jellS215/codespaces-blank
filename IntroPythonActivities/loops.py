@@ -1,6 +1,4 @@
-is_password_correct = True:
-
-#
+is_password_correct = True
 if user_password_attempt:  
 
 
